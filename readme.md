@@ -1,7 +1,6 @@
 <h1 align="center">My Name is Crewe Bailey 🚀</h1>
 <h3 align="center">CS Student Specializing in ML</h3>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=CreweBailey&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="profile_view_badge" />
 <img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=down&label=The%20Magic%20Nexus&style=for-the-badge&up_color=darkgreen&up_message=up&url=https%3A%2F%2Fthemagicnexus.com"> </p>
 
