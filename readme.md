@@ -8,7 +8,7 @@
 
 - 💻 Working on **Learning GitHub and Kaggle**
 
-- 📚 Studying **Statistics**
+- 📚 Studying **Computer Vision & Data Analytics**
 
 - 📊 Research interests **Anything Machine Learning**
 
