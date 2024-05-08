@@ -1,18 +1,17 @@
 <h1 align="center">My Name is Destiny Bailey 💻🧠</h1>
-<h3 align="center">CS Student Specializing in ML</h3>
+<h3 align="center">AI Researcher</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Destiny-Bailey&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="profile_view_badge" />
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=down&label=The%20Magic%20Nexus&style=for-the-badge&up_color=darkgreen&up_message=up&url=https%3A%2F%2Fthemagicnexus.com"> </p>
 
-- 💼 Employer [**Acadia Institute for Data Analytics**](https://aida.acadiau.ca/home.html)
+- 💼 Employer [**AI4Good Lab**](https://www.ai4goodlab.com/)
 
-- 💻 Working on **Learning GitHub and Kaggle**
+- 💻 Working on **Transformer Memory**
 
-- 📚 Studying **Computer Vision & Data Analytics**
+- 📚 Studying **Reviewing Statistics**
 
 - 📊 Research interests **Anything Machine Learning**
 
-- 📧 Contact me @ **160236b@acadiau.ca**
+- 📧 Contact me @ **thedestinybailey@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
