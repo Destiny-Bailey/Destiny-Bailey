@@ -1,5 +1,5 @@
 <h1 align="center">My Name is Destiny Bailey 💻🧠</h1>
-<h3 align="center">AI Researcher</h3>
+<h3 align="center">AI Researcher | Just Graduated</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Destiny-Bailey&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="profile_view_badge" />
 
