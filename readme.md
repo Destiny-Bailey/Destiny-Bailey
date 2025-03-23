@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Destiny-Bailey&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="profile_view_badge" />
 
-- 💼 Employer [**AI4Good Lab**](https://www.ai4goodlab.com/)
+- 💼 Employer [**Voithos Labs**](https://www.voithoslabs.com/)
 
-- 💻 Working on **Transformer Memory**
+- 💻 Working on **Taking it easy**
 
-- 📚 Studying **Reviewing Statistics**
+- 📚 Studying **Rust**
 
 - 📊 Research interests **Anything Machine Learning**
 
