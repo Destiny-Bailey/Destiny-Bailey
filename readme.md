@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Destiny-Bailey&label=Profile%20views&color=ff69b4&style=for-the-badge" alt="profile_view_badge" />
 
-- 💼 Employer [**Voithos Labs**](https://www.voithoslabs.com/)
+- 💼 Employer [**HSCII**](https://hscii.org/)
 
 - 💻 Working on **Taking it easy**
 
